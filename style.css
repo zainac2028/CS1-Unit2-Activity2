@@ -1,15 +1,24 @@
 .flexbox {
     display: flex;
-    border: 2px solid blue;
+    border: 2px solid black;
     padding: 20px;
 }
 
 .item {
-    border: 2px solid red;
+    border: 2px solid gray;
     padding: 20px; 
 }
 
 #box1 {
-    justify-content: space-evenly; 
-    
+    justify-content: space-evenly;    
+    background: lightgray;
+}
+ 
+#box2, #box3, #box4 {
+    justify-content: center;
+    background: lightgrey;
+}
+
+#innerbox4 {
+    background:
 }
