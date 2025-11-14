@@ -11,14 +11,18 @@
 
 #box1 {
     justify-content: space-evenly;    
-    background: lightgray;
+    background: darkred;
 }
  
 #box2, #box3, #box4 {
     justify-content: center;
-    background: lightgrey;
+    background: lightgray;
+}
+
+#box3{
+    background: crimson
 }
 
 #innerbox4 {
-    background:
+    background: pink
 }
