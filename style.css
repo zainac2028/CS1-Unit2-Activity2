@@ -1,17 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
+body{
+    font-family: comic relief;
+}
+
+
 .flexbox {
     display: flex;
-    border: 2px solid black;
+
     padding: 20px;
 }
 
 .item {
-    border: 2px solid gray;
+
     padding: 20px; 
 }
 
 #box1 {
     justify-content: space-evenly;    
     background: darkred;
+    color: 
 }
  
 #box2, #box3, #box4 {
@@ -20,7 +27,7 @@
 }
 
 #box3{
-    background: crimson
+    background: darkred
 }
 
 #innerbox4 {
