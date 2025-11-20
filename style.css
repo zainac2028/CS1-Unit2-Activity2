@@ -18,23 +18,27 @@ body{
 
 #box1 {
     justify-content: space-evenly;    
-    background: darkred;
+    background: #d00000;
     color: 
 }
  
 #box2, #box3, #box4 {
     justify-content: center;
-    background: lightgray;
+}
+
+#box2{
+    background: #dc2f02;
 }
 
 #box3{
-    background: darkred
+    background: #e85d04;
+}
+
+#box4{
+    background: #f48c06;
 }
 
 #innerbox4 {
-    background: lightgray
-
-
-h1{
-    font-c
+    background: #faa307
 }
+
